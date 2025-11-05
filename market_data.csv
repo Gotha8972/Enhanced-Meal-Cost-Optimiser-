@@ -1,0 +1,65 @@
+food_item,category,avg_price_per_100g,inflation_index
+Rice,Cereals and products,25.0,197.6
+Wheat,Cereals and products,30.0,197.6
+Bread,Cereals and products,35.0,197.6
+Chapati,Cereals and products,20.0,197.6
+Dosa,Cereals and products,40.0,197.6
+Idli,Cereals and products,25.0,197.6
+Chicken,Meat and fish,120.0,226.6
+Fish,Meat and fish,150.0,226.6
+Mutton,Meat and fish,200.0,226.6
+Egg,Egg,8.0,194.9
+Milk,Milk and products,6.0,191.4
+Curd,Milk and products,8.0,191.4
+Paneer,Milk and products,60.0,191.4
+Cheese,Milk and products,80.0,191.4
+Ghee,Oils and fats,120.0,195.8
+Oil,Oils and fats,80.0,195.8
+Butter,Oils and fats,100.0,195.8
+Apple,Fruits,60.0,213.7
+Banana,Fruits,20.0,213.7
+Orange,Fruits,40.0,213.7
+Mango,Fruits,50.0,213.7
+Tomato,Vegetables,30.0,219.2
+Onion,Vegetables,25.0,219.2
+Potato,Vegetables,20.0,219.2
+Carrot,Vegetables,35.0,219.2
+Spinach,Vegetables,15.0,219.2
+Dal,Pulses and products,80.0,183.5
+Chana,Pulses and products,70.0,183.5
+Rajma,Pulses and products,90.0,183.5
+Sugar,Sugar and Confectionery,40.0,136.3
+Jaggery,Sugar and Confectionery,50.0,136.3
+Turmeric,Spices,200.0,220.7
+Cumin,Spices,300.0,220.7
+Coriander,Spices,150.0,220.7
+Garam Masala,Spices,400.0,220.7
+Tea,Non-alcoholic beverages,20.0,186.9
+Coffee,Non-alcoholic beverages,25.0,186.9
+Biryani,Prepared meals snacks sweets etc.,80.0,211.5
+Samosa,Prepared meals snacks sweets etc.,15.0,211.5
+Pakora,Prepared meals snacks sweets etc.,20.0,211.5
+Sweets,Prepared meals snacks sweets etc.,100.0,211.5
+Grapes,Fruits,80.0,213.7
+Pomegranate,Fruits,120.0,213.7
+Prawns,Meat and fish,180.0,226.6
+Brinjal,Vegetables,25.0,219.2
+Halwa,Prepared meals snacks sweets etc.,60.0,211.5
+Urad,Pulses and products,85.0,183.5
+Juice,Non-alcoholic beverages,30.0,186.9
+Cauliflower,Vegetables,30.0,219.2
+Paratha,Cereals and products,35.0,197.6
+Roti,Cereals and products,18.0,197.6
+Buttermilk,Milk and products,5.0,191.4
+Mustard Oil,Oils and fats,90.0,195.8
+Coconut Oil,Oils and fats,110.0,195.8
+Beef,Meat and fish,180.0,226.6
+Kheer,Prepared meals snacks sweets etc.,70.0,211.5
+Lassi,Milk and products,8.0,191.4
+Naan,Cereals and products,45.0,197.6
+Cardamom,Spices,500.0,220.7
+Red Chili,Spices,250.0,220.7
+Cabbage,Vegetables,20.0,219.2
+Honey,Sugar and Confectionery,200.0,136.3
+Crab,Meat and fish,220.0,226.6
+Moong,Pulses and products,75.0,183.5
